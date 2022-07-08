@@ -8,12 +8,6 @@ const argv = require('yargs').argv
 
 
 
-
-
-
-
-
-
 console.clear();
 
 console.log(argv);
